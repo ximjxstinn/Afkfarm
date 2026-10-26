@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "afkfarm",
+  "version": "${version}",
+  "name": "AFK Farm",
+  "description": "AFK-Mobfarming: greift Mobs am Farmplatz automatisch an, isst bei Hunger und schützt deine Waffe vor dem Kaputtgehen.",
+  "authors": ["xImJxstinn"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.ximjxstinn.afkfarm.AfkFarmClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

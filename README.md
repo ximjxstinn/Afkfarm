@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33942196/README.md)
 # AFK Farm (Fabric 1.21.11)
 
 Client-Mod fürs AFK-Mobfarming: schlägt Mobs am Farmplatz automatisch, isst bei Hunger und schützt deine Waffe.
